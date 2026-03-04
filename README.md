@@ -1,4 +1,4 @@
-Question we are answering: 
+**Question we are answering:** 
 Using audio features and popularity metrics from the 2023 Spotify streaming dataset, can we predict whether a song will be nominated for a Grammy in major song-related categories? (Categories Considered: Song of the Year, Best R&B Song, Best Rap Song, Best Country Song, Best Song Written for Visual Media)
 
 Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
