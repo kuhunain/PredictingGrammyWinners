@@ -7,3 +7,4 @@ Authors: Kuhu Nain, Eeshani Shilamkar, Ruslana Korolov
 
 Files: 
 1. DataPreprocessing_and_BaselineModels.ipynb -- this is where we preprocessed the dataset, appended the nominees to the 5 songs, and ran base line models (Decision Tree, Random Forest, and Grid Searched Random Forest)
+2. FeatureEngineering&EDA.ipynb -- this is where we did our exploratory data analysis on the original, unmodified dataset.
